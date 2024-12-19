@@ -1,6 +1,13 @@
 import { useState } from "react";
 import "./App.css";
 
+/**
+ * Note: this was made with help from ChatGPT.
+ * Here are some of the conversations:
+ * https://chatgpt.com/share/676185c3-51ec-800a-ac04-3a28ea733152
+ * - help setting up categories.
+ */
+
 const App = () => {
 
   // Note: this function runs once when the App starts up
